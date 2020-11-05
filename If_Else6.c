@@ -11,7 +11,7 @@ int main()
     printf("The charachter is in upper case:");
         
   else
-     printf("The charachter is in upper case:");
+     printf("The charachter is in lower case:");
      
   return 0;
 } 
