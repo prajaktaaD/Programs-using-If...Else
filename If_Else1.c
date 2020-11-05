@@ -11,7 +11,7 @@ int main()
   printf("\nNum is Even");
   
   else
-  printf("\nNum id Odd");
+  printf("\nNum is Odd");
   
   return 0;
   
