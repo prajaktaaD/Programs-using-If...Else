@@ -5,7 +5,7 @@ int main()
 {
   char ch;
   printf("Enter a charecter other than special chararecter:");
-  scanf("%d",&ch);
+  scanf("%c",&ch);
   
   if((ch>='A' && ch<='Z')||(ch>='a'&&ch<='z'))
    printf("The entered character is alpabate");
