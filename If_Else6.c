@@ -5,7 +5,7 @@ int main()
 {
   char ch;
   printf("Enter the charachter:");
-  scanf("%d",&ch);
+  scanf("%c",&ch);
   
   if(ch>='A'&&ch<='Z')
     printf("The charachter is in upper case:");
